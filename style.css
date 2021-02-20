@@ -1,0 +1,210 @@
+.main{
+    width: 1280px;
+    height: 720px;
+    margin:  0 auto;
+    border: 3px solid black;
+    background-image: url('Background.jpg');
+    
+}
+
+table, th, td {
+    border: 0px solid black;
+    border-collapse: collapse;
+    width: 50%;
+  }
+
+  #profilkep{
+      border: 5px solid rgb(0, 0, 214);
+      margin-top: 50px;
+      margin-left: 50px;
+      float: left;
+      border-radius: 5px;
+      box-shadow: 5px 5px 20px rgb(0, 0, 0);
+
+  }
+
+.balTablazat{
+    float: left;
+}
+
+.nev{
+    background-color: rgb(146, 211, 255, 0.5);
+    width: 180px;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 20px;
+    float:  left;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px rgb(0, 0, 0);
+}
+
+#VD{
+    margin-top: 15px;
+}
+
+#email{
+    font-size: 15px;
+    text-align: left;
+}
+#phone{
+    margin-top:  -10px;
+    font-size: 15px;
+    text-align: left;
+}
+
+
+.rolam{
+    background-color: rgb(146, 211, 255, 0.8);
+    margin-left: 50px;
+    margin-right: 43px;
+    box-shadow: 5px 5px 20px rgb(0, 0, 0);
+}
+
+.rolamCim{
+    background-color:rgb(0, 0, 214) ;
+    width: 40%;
+    color: white;
+    margin-left: 50px;
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 10px;
+
+    
+    
+}
+
+#rolamText{
+    font-size: 20px;
+}
+#rolamText2{
+    margin-left: 50px;
+}
+
+.programismeretek{
+    background-color: rgb(146, 211, 255, 0.8) ;
+    margin-left: 50px;
+    float: left;
+    width: 40%;
+    height: 250px;
+    margin-right: 30px;
+  
+    box-shadow: 5px 5px 20px rgb(0, 0, 0);
+}
+
+.ProgIsmCim{
+    margin-left: 5px;
+    background-color: rgb(0, 0, 214);
+    width: 60%;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+
+.World{
+    list-style-image: url('World2a.png');
+    margin-left: 5px;
+}
+
+.excel{
+    list-style-image: url('excel.png');
+    margin-left: 5px;
+}
+
+.ppt{
+    list-style-image: url('ppt.png');
+    margin-left: 5px;
+}
+
+
+.nyelvismeretek{
+    background-color: rgb(146, 211, 255, 0.8) ;
+    margin-left: 5px;
+    float: left;
+    width: 40%;
+    height: 250px;
+    margin-right: 40px;
+    box-shadow: 5px 5px 20px rgb(0, 0, 0);
+}
+
+.nyelv{
+    margin-left: 15px;
+    margin-top: -10px;
+}
+
+.igen{
+    list-style-type: none;
+}
+
+.PC{
+    list-style-image: url(pcIcon.png);
+    margin-left: 5px;
+}
+.angol{
+    margin-left: 5px;
+}
+
+
+
+.munkatapaszt{
+    margin-left: 5px;
+    background-color: rgb(0, 0, 214);
+    width: 60%;
+    color: white;
+    margin-top: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+
+.felsocella{
+    text-align: center;
+}
+
+
+.munkaTpContent{
+    background-color: rgb(146, 211, 255, 0.8) ;
+    margin-left: 5px;
+    float: left;
+    width: 80%;
+    height: 250px;
+    margin-right: 40px;
+    margin-left: 40px;
+    box-shadow: 5px 5px 20px rgb(0, 0, 0);
+    height: 240px;
+
+}
+
+.MunkaTable{
+    width: 100%;
+    vertical-align: top;
+    padding-top: 0px;
+
+}
+
+.Evszam{
+    vertical-align: top;
+    margin-top: 0px;
+    
+}
+
+.Tanulmany{
+    background-color: rgb(146, 211, 255, 0.8) ;
+    margin-left: 5px;
+    float: left;
+    width: 80%;
+    height: 189px;
+    margin-right: 40px;
+    margin-left: 40px;
+    box-shadow: 5px 5px 20px rgb(0, 0, 0);
+}
